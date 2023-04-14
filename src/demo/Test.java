@@ -6,5 +6,6 @@ public class Test {
 	}
 	
 	//test
+	String name= "John Cena";
 
 }
